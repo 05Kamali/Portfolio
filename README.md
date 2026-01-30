@@ -1,5 +1,8 @@
 ## 📌 Overview
 
-This is my personal portfolio website created to showcase my skills, projects, and achievements.  
-It highlights my work in Computer Science, Artificial Intelligence, and Machine Learning, along with innovative projects such as assistive technology and IoT-based solutions.  
-The portfolio also provides an easy way to connect with me professionally.
+Welcome to my personal portfolio website!  
+This portfolio is a reflection of my journey as a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning.  
+
+It showcases my technical skills, academic projects, and innovative solutions such as assistive technologies, IoT-based systems, and AI-powered applications.  
+
+The website serves as a platform to explore my work, learn about my interests, and connect with me for collaborations, internships, or professional opportunities.
